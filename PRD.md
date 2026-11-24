@@ -39,7 +39,17 @@ Merchants around the campus don't have any online visibility bringing students t
 
 + SHOP OWNERS: Those looking for more business expansion in a way to get more students to find their business and a clearer way to share payment information.
 
-### COPING METHODS AND WHY THE EXISTING SOLUTION FALL SHORT
+ ### STAKEHOLDERS
+ The main stakeholders of BU EASYPAY include the following;
+ + Students: They are the primary users of BU EASYPAY. They will use the platform to search for campus shops, make payments and view their transaction history.
+ + Campus shop owners: They will register their businesses on the platform, receive payments from students and manage their transaction.
+ + Development Team: They will be responsible for designing, building, testing and maintaining the platform.
+ + School Management: They may support the introduction of BU EASYPAY within the campus and help encourage shops and students to adopt the platform.
+ + Administrators: They will manage user accounts, verify shop registrations, monitor activities and handle reported problems.
+ + Payment Service Provider: They will help process bank payments and ensure that transactions are handled securely.
+ 
+
+### COPING METHODS AND REASONS THE EXISTING SOLUTION FALL SHORT
 Through our survey we discovered the following ways students cope with the problems we observed;
 
 Question- How do students find a shop they have never visited?
