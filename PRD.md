@@ -8,7 +8,14 @@ The problem to investigate is whether students have difficulty finding particula
 
 The first version should address only the most important problem supported by research. Payment functionality should be included only if user research, feasibility checks, and payment-provider requirements support it.
 
-### PROBLEM DISCOVERY
+### PRODUCT OVERVIEW
+BU EASYPAY is a digital payment and shop discovery platform designed to make transactions between students and businesses or entrepreneurs on campus easier, faster and more convenient.
+
+The platform will allow students to discover shops around campus, search for businesses by name or category, and make payments to registerd merchants using their bank accounts.
+
+Instead of the stress of new students having to search physically for shops or struggle to find the correct bank details when making payments, BU EASYPAY provides a centralized businesses and conveniently pay them. This platform also provides shop owners with an opourtunity to register their businesses, receive digital payments and reach more potential customers.
+
+### PROBLEM STATEMENT
 Students frequently purchase items and services from shops within the campus,and bank transfer is the most commonly used payment method. However several challenges make these transactions inconvenient. 
 These challenges include;
 
@@ -24,13 +31,15 @@ These challenges include;
 
 BU EASYPAY aims to address these problems by combining a shop discovery system with a very convenient digital payment solution.
 
-### THOSE EXPERIENCING THESE PROBLEMS
+Merchants around the campus don't have any online visibility bringing students to their place of work, BU EASYPY also addresses this by directing more students their place of work through our shop discovery feature
+
+### TARGET USERS
 
 + STUDENTS: Those who need a reliable way to find food vendors, stationary shops, superstores, printing shops, salons and other businesses and an efficient way to pay for these certain services that allow for effective seperation of school and personal allowances.
 
 + SHOP OWNERS: Those looking for more business expansion in a way to get more students to find their business and a clearer way to share payment information.
 
-### CURRENT WAYS THEY COPE AND WHY THE EXISTING SOLUTION FALL SHORT
+### COPIMG METHODS AND WHY THE EXISTING SOLUTION FALL SHORT
 Through our survey we discovered the following ways students cope with the problems we observed;
 
 Question- How do students find a shop they have never visited?
@@ -62,7 +71,7 @@ This is the smallest version that tests the most important problem established b
 6. Shop profile page
 7. Shop search engine
 
-#### FUNCTIONAL REQUIREMENTS
+### FUNCTIONAL REQUIREMENTS
 + User must be able to register.
 + User must be able to log in and out.
 + Merchants must be able to register their shops.
@@ -72,9 +81,21 @@ This is the smallest version that tests the most important problem established b
 + The system must process payment through a payment provider.
 + User must be able to view transaction history.
 
-#### NON-FUNCTIONAL REQUIREMENTS
+### NON-FUNCTIONAL REQUIREMENTS
 + Security
 + Performance
 + Usability
 + Reliability
 + Scalability.
+
+### USER STORIES
+STUDENTS:
++ As a student, I want to search for a shop by name so that i can find it easily.
++ As a student, I want to view shop information so that i know where i am paying.
++ As a student, I want to pay using my bank account so that i do not always need cash.
++ As a student, I want to view my transaction history so that i can monitor my payments.
+
+MERCHANT:
++ As a shop owner, I want to register my business so that students can find my shop.
++ As a shop owner, I want to receive digital payments so that transactions become easier.
++ As a shop owner, I want to receive payment notifications so that i can confirm incoming payments.
